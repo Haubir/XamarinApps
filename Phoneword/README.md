@@ -1,7 +1,9 @@
 Phoneword
 =========
 
-This sample demonstrates sharing C# code across platforms using Xamarin.Forms.
+Test example imported from the Xamarin Forums!
+
+"This sample demonstrates sharing C# code across platforms using Xamarin.Forms.
 
 The app functionality is to convert telephone number 'words' into digits (eg 1-800-FLOWERS to the actual phone number).
 
@@ -9,4 +11,4 @@ The app functionality is to convert telephone number 'words' into digits (eg 1-8
 Author
 ------
 
-David Britch
+David Britch"
