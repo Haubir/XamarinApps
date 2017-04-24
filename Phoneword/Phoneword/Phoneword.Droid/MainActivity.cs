@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 using Android.App;
 using Android.Content.PM;
@@ -14,6 +14,7 @@ namespace Phoneword.Droid
     {
         protected override void OnCreate(Bundle bundle)
         {
+            Microsoft.WindowsAzure.MobileServices.CurrentPlatform.Init();
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);

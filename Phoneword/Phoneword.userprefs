@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D78E309F-CB85-4B36-84A9-06A7BA9F9130}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/Phoneword.iOS/Main.storyboard">
+    <Files>
+      <File FileName="Phoneword/Phoneword.iOS/AppDelegate.cs" Line="24" Column="10" />
+      <File FileName="Phoneword/Phoneword.iOS/PhoneDialer.cs" Line="1" Column="1" />
+      <File FileName="Phoneword/Phoneword.iOS/Info.plist" />
+      <File FileName="Phoneword/Phoneword.iOS/Main.cs" Line="21" Column="1" />
+      <File FileName="Phoneword/Phoneword.iOS/Main.storyboard" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Phoneword" expanded="True">
+            <Node name="Phoneword.Droid" expanded="True">
+              <Node name="ConnectedServicesFolder" expanded="True" />
+            </Node>
+            <Node name="Phoneword.iOS" expanded="True">
+              <Node name="Main.storyboard" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Phoneword.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CBA01B6D-FAD2-4899-8F7A-D6A3FE252405" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
